@@ -1,6 +1,6 @@
 <template>
-  <div >
-  footer
+  <div class="container text-center">
+    FOOTER
   </div>
 </template>
 <script>

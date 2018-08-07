@@ -2,7 +2,9 @@
   <div class="AllApp">
     <menubar/>
 
+    <div>
     <router-view></router-view>
+    </div>
 
     <footer-content/>
   </div>

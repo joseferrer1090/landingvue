@@ -7,11 +7,11 @@
               </div>
               <!-- Logo ============================================= -->
               <div id="logo">
-                  <a data-dark-logo="/static/img/ids_logo85px.png" class="standard-logo" href="index.html">
-                    <img alt="Infinity Dance Studio Logo" src="/static/img/ids_logo85px.png" />
+                  <a data-dark-logo="../../../assets/img/ids_logo85px.png" class="standard-logo" href="index.html">
+                    <img alt="Infinity Dance Studio Logo" src="../../../assets/img/ids_logo85px.png" />
                   </a>
-                  <a data-dark-logo="/static/img/ids_logo85px.png" class="retina-logo" href="index.html">
-                  <img alt="Infinity Dance Studio Logo" src="/static/img/ids_logo85px.png" />
+                  <a data-dark-logo="../../../assets/img/ids_logo85px.png" class="retina-logo" href="index.html">
+                  <img alt="Infinity Dance Studio Logo" src="../../../assets/img/ids_logo85px.png" />
                   </a>
               </div>
               <!-- #logo end -->
