@@ -1188,7 +1188,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-bannershadow.tp-shadow1 {
-    background: url(../assets/shadow1.png) no-repeat;
+    /* background: url(../img/shadow1.png) no-repeat; */
     background-size: 100% 100%;
     width: 890px;
     height: 60px;
@@ -1196,7 +1196,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-bannershadow.tp-shadow2 {
-    background: url(../assets/shadow2.png) no-repeat;
+    /* background: url(../img/shadow2.png) no-repeat; */
     background-size: 100% 100%;
     width: 890px;
     height: 60px;
@@ -1204,7 +1204,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-bannershadow.tp-shadow3 {
-    background: url(../assets/shadow3.png) no-repeat;
+    /* background: url(../img/shadow3.png) no-repeat; */
     background-size: 100% 100%;
     width: 890px;
     height: 60px;
@@ -1416,19 +1416,19 @@ img.tp-slider-alternative-image {
 }
 
 .tp-dottedoverlay.twoxtwo {
-    background: url(../assets/gridtile.png)
+    /* background: url(../img/gridtile.png) */
 }
 
 .tp-dottedoverlay.twoxtwowhite {
-    background: url(../assets/gridtile_white.png)
+    /* background: url(../img/gridtile_white.png) */
 }
 
 .tp-dottedoverlay.threexthree {
-    background: url(../assets/gridtile_3x3.png)
+    /* background: url(../img/gridtile_3x3.png) */
 }
 
 .tp-dottedoverlay.threexthreewhite {
-    background: url(../assets/gridtile_3x3_white.png)
+    /* background: url(../img/gridtile_3x3_white.png) */
 }
 
 
@@ -1472,7 +1472,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.navbar {
     border: 1px solid #666;
     border-bottom: 1px solid #444;
-    background: url(../assets/boxed_bgtile.png);
+    /* background: url(../img/boxed_bgtile.png); */
     height: 40px;
     padding: 0px 10px;
     -webkit-border-radius: 5px;
@@ -1481,7 +1481,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-bullets.simplebullets.navbar-old {
-    background: url(../assets/navigdots_bgtile.png);
+    /* background: url(../img/navigdots_bgtile.png); */
     height: 35px;
     padding: 0px 10px;
     -webkit-border-radius: 5px;
@@ -1492,7 +1492,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.round .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/bullet.png) no-Repeat top left;
+    /* background: url(../img/bullet.png) no-Repeat top left; */
     width: 20px;
     height: 20px;
     margin-right: 0px;
@@ -1508,7 +1508,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.round-old .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/bullets.png) no-Repeat bottom left;
+    /* background: url(../img/bullets.png) no-Repeat bottom left; */
     width: 23px;
     height: 23px;
     margin-right: 0px;
@@ -1526,7 +1526,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.square .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/bullets2.png) no-Repeat bottom left;
+    /* background: url(../img/bullets2.png) no-Repeat bottom left; */
     width: 19px;
     height: 19px;
     margin-right: 0px;
@@ -1544,7 +1544,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.square-old .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/bullets2.png) no-Repeat bottom left;
+    /* background: url(../img/bullets2.png) no-Repeat bottom left; */
     width: 19px;
     height: 19px;
     margin-right: 0px;
@@ -1562,7 +1562,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.navbar .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/bullet_boxed.png) no-Repeat top left;
+    /* background: url(../img/bullet_boxed.png) no-Repeat top left; */
     width: 18px;
     height: 19px;
     margin-right: 5px;
@@ -1584,7 +1584,7 @@ img.tp-slider-alternative-image {
 .tp-bullets.simplebullets.navbar-old .bullet {
     cursor: pointer;
     position: relative;
-    background: url(../assets/navigdots.png) no-Repeat bottom left;
+    /* background: url(../img/navigdots.png) no-Repeat bottom left; */
     width: 15px;
     height: 15px;
     margin-left: 5px !important;
@@ -1645,7 +1645,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/large_left.png) no-Repeat top left;
+    /* background: url(../img/large_left.png) no-Repeat top left; */
     width: 40px;
     height: 40px;
 }
@@ -1654,7 +1654,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/large_right.png) no-Repeat top left;
+    /* background: url(../img/large_right.png) no-Repeat top left; */
     width: 40px;
     height: 40px;
 }
@@ -1663,7 +1663,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/small_left.png) no-Repeat top left;
+    /* background: url(../img/small_left.png) no-Repeat top left; */
     width: 19px;
     height: 14px;
     margin-right: 0px;
@@ -1675,7 +1675,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/small_right.png) no-Repeat top left;
+    /* background: url(../img/small_right.png) no-Repeat top left; */
     width: 19px;
     height: 14px;
     margin-right: 0px;
@@ -1687,7 +1687,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_left.png) no-Repeat top left;
+    /* background: url(../img/arrow_left.png) no-Repeat top left; */
     width: 26px;
     height: 26px;
     margin-right: 0px;
@@ -1699,7 +1699,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_right.png) no-Repeat top left;
+    /* background: url(../img/arrow_right.png) no-Repeat top left; */
     width: 26px;
     height: 26px;
     margin-right: 0px;
@@ -1711,7 +1711,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/small_left_boxed.png) no-Repeat top left;
+    /* background: url(../img/small_left_boxed.png) no-Repeat top left; */
     width: 20px;
     height: 15px;
     float: left;
@@ -1723,7 +1723,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/small_right_boxed.png) no-Repeat top left;
+    /* background: url(../img/small_right_boxed.png) no-Repeat top left; */
     width: 20px;
     height: 15px;
     float: left;
@@ -1735,7 +1735,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrowleft.png) no-Repeat top left;
+    /* background: url(../img/arrowleft.png) no-Repeat top left; */
     width: 9px;
     height: 16px;
     float: left;
@@ -1747,7 +1747,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrowright.png) no-Repeat top left;
+    /* background: url(../img/arrowright.png) no-Repeat top left; */
     width: 9px;
     height: 16px;
     float: left;
@@ -1767,7 +1767,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_left2.png) no-Repeat top left;
+    /* background: url(../img/arrow_left2.png) no-Repeat top left; */
     width: 12px;
     height: 17px;
     float: left;
@@ -1779,7 +1779,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_right2.png) no-Repeat top left;
+    /* background: url(../img/arrow_right2.png) no-Repeat top left; */
     width: 12px;
     height: 17px;
     float: left;
@@ -1791,7 +1791,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_left2.png) no-Repeat top left;
+    /* background: url(../img/arrow_left2.png) no-Repeat top left; */
     width: 12px;
     height: 17px;
     float: left;
@@ -1803,7 +1803,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../assets/arrow_right2.png) no-Repeat top left;
+    /* background: url(../img/arrow_right2.png) no-Repeat top left; */
     width: 12px;
     height: 17px;
     float: left;
@@ -1815,7 +1815,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../_assets/img/large_left.png) no-Repeat 0 0;
+    /* background: url(../img/large_left.png) no-Repeat 0 0; */
     width: 40px;
     height: 40px;
 }
@@ -1824,7 +1824,7 @@ img.tp-slider-alternative-image {
     z-index: 100;
     cursor: pointer;
     position: relative;
-    background: url(../_assets/img/large_right.png) no-Repeat 0 0;
+    /* background: url(../img/large_right.png) no-Repeat 0 0; */
     width: 40px;
     height: 40px;
 }
@@ -1913,7 +1913,7 @@ img.tp-slider-alternative-image {
 .tp-bannertimer {
     width: 100%;
     height: 10px;
-    background: url(../assets/timer.png);
+    /* background: url(../img/timer.png); */
     position: absolute;
     z-index: 200;
     top: 0px
@@ -1982,11 +1982,11 @@ img.tp-slider-alternative-image {
 .tp-caption.slidelink a div {
     width: 3000px;
     height: 1500px;
-    background: url(../assets/coloredbg.png) repeat
+    /* background: url(../img/coloredbg.png) repeat */
 }
 
 .tp-caption.slidelink a span {
-    background: url(../assets/coloredbg.png) repeat
+    /* background: url(../img/coloredbg.png) repeat */
 }
 
 
@@ -2888,7 +2888,7 @@ img.tp-slider-alternative-image {
 .tp-loader.spinner0 {
     width: 40px;
     height: 40px;
-    background: url(../assets/loader.gif) no-repeat center center;
+    /* background: url(../img/loader.gif) no-repeat center center; */
     background-color: #fff;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
@@ -2917,7 +2917,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-loader.spinner5 {
-    background: url(../assets/loader.gif) no-repeat 10px 10px;
+    /* background: url(../img/loader.gif) no-repeat 10px 10px; */
     background-color: #fff;
     margin: -22px -22px;
     width: 44px;
@@ -3113,7 +3113,7 @@ img.tp-slider-alternative-image {
 }
 
 .tp-transparentimg {
-    content: "url(../assets/transparent.png)"
+    /* content: "url(../img/transparent.png)" */
 }
 
 .tp-3d {
@@ -3124,14 +3124,14 @@ img.tp-slider-alternative-image {
 .tp-caption img {
     background: transparent;
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endColorstr=#00FFFFFF);
+    /* filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endColorstr=#00FFFFFF); */
     zoom: 1;
 }
 
 @font-face {
     font-family: 'revicons';
-    src: url('fonts/revicons.eot?5510888');
-    src: url('fonts/revicons.eot?5510888#iefix') format('embedded-opentype'), url('fonts/revicons.woff?5510888') format('woff'), url('fonts/revicons.ttf?5510888') format('truetype'), url('fonts/revicons.svg?5510888#revicons') format('svg');
+    /* src: url('fonts/revicons.eot?5510888');
+    src: url('fonts/revicons.eot?5510888#iefix') format('embedded-opentype'), url('fonts/revicons.woff?5510888') format('woff'), url('fonts/revicons.ttf?5510888') format('truetype'), url('fonts/revicons.svg?5510888#revicons') format('svg'); */
     font-weight: normal;
     font-style: normal;
 }
