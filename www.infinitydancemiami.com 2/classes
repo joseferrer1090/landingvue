@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+
+<html lang="en-US" dir="ltr">
+
+    <!--Template headers--->
+    <!-- head from headers-->
+<head>
+   
+    <link rel="author" href="https://plus.google.com/110630098242740364432/about" />
+    <link rel="canonical" href="http://www.infinitydancemiami.com" />
+    <link rel="shortcut icon" href="/favicon.ico">
+   
+    <!-- Stylesheets ============================================= -->
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic"
+    />
+    <link type="text/css" href="/_assets/css/bootstrap.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/style.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/dark.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/font-icons.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/animate.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/magnific-popup.css" rel="stylesheet" />
+    <link type="text/css" href="/_assets/css/responsive.css" rel="stylesheet" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+    <!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+    <!-- External JavaScripts ============================================= -->
+    <script type="text/javascript" src="/_assets/js/jquery.js"></script>
+    <script type="text/javascript" src="/_assets/js/plugins.js"></script>
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+    <script type="text/javascript" src="/_assets/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="/_assets/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+    <link rel="stylesheet" type="text/css" href="/_assets/css/settings.css" media="screen" />
+    
+     <script language=JavaScript>
+        var message = "Function Disabled! Copyright © 2016 by IDS";
+        
+        function clickIE4() {
+            if (event.button == 2) {
+                alert(message);
+                return false;
+            }
+        }
+        
+        function clickNS4(e) {
+            if (document.layers || document.getElementById && !document.all) {
+                if (e.which == 2 || e.which == 3) {
+                    alert(message);
+                    return false;
+                }
+            }
+        }
+        if (document.layers) {
+            document.captureEvents(Event.MOUSEDOWN);
+            document.onmousedown = clickNS4;
+        } else if (document.all && !document.getElementById) {
+            document.onmousedown = clickIE4;
+        }
+        document.oncontextmenu = new Function("alert(message);return false")
+    </script>
+</head>
+    <!-- BC_OBNW -->
+<head>
+<title>classes</title>
+<link type="text/css" href="/StyleSheets/ModuleStyleSheets.css" rel="StyleSheet" />
+<script type="text/javascript">var jslang='EN';</script>
+</head>
+<body class="stretched">
+
+        <div class="clearfix" id="wrapper">
+            <header data-sticky-class="not-dark" class="transparent-header full-header" id="header">
+                <div id="header-wrap">
+                    <div class="container clearfix">
+                        <div id="primary-menu-trigger"><em class="icon-reorder"></em>
+                        </div>
+                        <div id="logo">
+                            <a data-dark-logo="/_assets/img/ids_logo85px_w.png" class="standard-logo" href="/home"><img alt="Infinity Dance Studio Logo" src="/_assets/img/ids_logo85px.png" /></a>
+                            <a data-dark-logo="/_assets/img/ids_logo85px_w.png" class="retina-logo" href="/home"><img alt="Infinity Dance Studio Logo" src="/_assets/img/ids_logo85px.png" /></a>
+                        </div>
+                        <nav id="primary-menu" class="dark"><ul><li  ><a href="/about">About</a></li><li  ><a href="/classes">Classes</a><ul><li  ><a href="/schedule">Schedule</a></li><li  ><a href="/camps">Camps</a></li></ul></li><li  ><a href="/2016-spring">shows</a><ul><li  ><a href="/2016-spring">2016 Spring</a></li><li  ><a href="/2015-winter">2015 Winter</a></li><li  ><a href="/2014-winter">2014 Winter</a></li><li  ><a href="/2014-summer">2014 Summer</a></li><li  ><a href="/2013-june">2013 Summer</a></li></ul></li><li  ><a href="/tuitionandfees">tuition &amp; fees</a></li><li  ><a href="/whatson">whats on</a></li><li  ><a href="/competition">Competition Team</a></li><li  ><a href="/contact">contact</a></li></ul></nav> 
+                    </div>
+                </div>
+            </header>
+            <!-- Page Title
+============================================= -->
+<section data-stellar-background-ratio="0.3" style="background-image: url(/_assets/img/camps.jpg); padding: 120px 0px;" class="page-title-parallax page-title-dark" id="page-title">
+    <div class="container clearfix">
+        <h1 data-animate="fadeInUp">Classes</h1>
+        <span data-delay="300" data-animate="fadeInUp">Ballet - Jazz - Flamenco - Hip Hop - Belly Dance - Acro - Contemporary - Ballroom</span>
+        
+    </div>
+</section>
+<!-- #page-title end -->
+<!-- Content
+============================================= -->
+<section id="content">
+    <div class="content-wrap">
+        <div class="container clearfix">
+            
+            <div class="col_one_third bottommargin-sm center">
+                <img data-animate="fadeInLeft" src="/_assets/img/ballet.jpg" alt="Ballet Classes">
+            </div>
+            <div class="col_two_third bottommargin-lg col_last">
+                <div class="heading-block topmargin-sm">
+                    <h3>Ballet</h3>
+                    <span>From Baby Ballet to Ballet 5 Level</span>
+                </div>
+                
+                <p>Our methodology is founded from the Cuban School of Ballet, complemented with methodologies from other national and international dance
+                    companies.
+                </p>
+                
+                <p>Our school has developed a comprehensive syllabus to implement in each level based on the child's capacity and abilities. </p>
+                
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            
+            <div class="line"></div>
+            
+            <div class="col_two_third bottommargin-sm col_last">
+                
+                <div class="heading-block topmargin-sm">
+                    <h3>Jazz</h3>
+                    <span>Levels 1 - 3</span>
+                </div>
+                
+                <p>Jazz is a style of dance performed to modern rhythms which has been developed from ballet, jazz music and African American rhythms.
+                </p>
+                <p>Technique is the foundation of all dance movements including jumps, turns, and extensions.</p>
+                
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            <div class="col_one_third bottommargin-lg center align-right">
+                <img data-animate="fadeInRight" src="/_assets/img/jazz.jpg" alt="Jazz Classes">
+            </div>
+            
+            <div class="line"></div>
+            
+            <div class="col_one_third bottommargin-sm center">
+                <img data-animate="fadeInLeft" src="/_assets/img/flamenco.jpg" alt="Flamenco Classes">
+            </div>
+            
+            <div class="col_two_third bottommargin-lg col_last">
+                
+                <div class="heading-block topmargin-sm">
+                    <h3>Flamenco</h3>
+                    <span>Levels 1 - 3</span>
+                </div>
+                
+                <p>Flamenco dance is a highly-expressive, Spanish dance form. The flamenco dance characterized by hand clapping, percussive footwork, and
+                    intricate hand, arm and body movements.
+                </p>
+                <p>As part of the class technique, students learn the use of abanicos, pericones, castañuelas, y mantillas.</p>
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            
+            <div class="line"></div>
+            
+            <div class="col_two_third bottommargin-sm col_last">
+                
+                <div class="heading-block topmargin-sm">
+                    <h3>Belly Dance </h3>
+                    <span>Levels 1 - 2</span>
+                </div>
+                
+                <p>Belly Dance is a type of Middle Eastern dance, primarily torso-driven dance, with an emphasis on articulations of the hips.</p>
+                <p>As art of Belly Dance technique, students master Shimmies, shivers, vibrations, percussive and fluid movements. The class utilizes canes,
+                    swords, fans, veils, and other props as part of their training and performance.</p>
+                
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            <div class="col_one_third bottommargin-lg center align-right">
+                <img data-animate="fadeInRight" src="/_assets/img/belly.jpg" alt="Belly Dance">
+            </div>
+            
+            
+            <div class="line"></div>
+            
+            
+            
+            <div class="col_one_third bottommargin-sm center">
+                <img data-animate="fadeInLeft" src="/_assets/img/hip-hop.jpg" alt="Hip Hop Classes">
+            </div>
+            <div class="col_two_third bottommargin-lg col_last">
+                <div class="heading-block topmargin-sm">
+                    <h3>Hip Hop</h3>
+                </div>
+                
+                <p>This style differs from other forms of dance is that it is often "freestyle" (improvisational) in nature. Hip-hop is highly musical and
+                    is just as phisically demanding as any other style.
+                </p>
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            
+            <div class="line"></div>
+            
+            <div class="col_two_third bottommargin-sm col_last">
+                
+                <div class="heading-block topmargin-sm">
+                    <h3>Acro</h3>
+                </div>
+                
+                <p>Acro dance is a style of dance that combines classical dance technique with precision acrobatic elements. It is defined by the athletic
+                    character, its unique choreography, which seamlessly blends dance into acrobatic, and its use of acrobatic in a dance context. </p>
+                <p>Acro dance is known by various other names including acrobatic dance and gymnastic dance, though it is most commonly referred to simply
+                    as acro by dancers and dance professionals. Acro is an especially challenging dance style for dancers as it requires them to be trained
+                    in both dance and acrobatic skills. Acro dancers must be in excellent physical condition as well, because acro is a physically demanding
+                    activity.
+                </p>
+                
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            <div class="col_one_third bottommargin-lg center align-right">
+                <img data-animate="fadeInRight" src="/_assets/img/acro.jpg" alt="Acro Classes">
+            </div>
+            
+            
+            <div class="line"></div>
+            
+            
+            
+            <div class="col_one_third bottommargin-sm center">
+                <img data-animate="fadeInLeft" src="/_assets/img/contemporary.jpg" alt="Contemporary Classes ">
+            </div>
+            <div class="col_two_third bottommargin-lg col_last">
+                <div class="heading-block topmargin-sm">
+                    <h3>Contemporary / Lyrical</h3>
+                </div>
+                
+                <p>Contemporary dance is a style of expressive dance that combines elements of several dance genres including modern, jazz, lyrical and classical
+                    ballet. </p>
+                <p>During this class dancers strive to connect the mind and the body through fluid dance movements. Students will develop versatility and
+                    improvisation, during complex combinations. This dance genre is often done in bare feet.</p>
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            
+            
+            <div class="line"></div>
+            
+            <div class="col_two_third bottommargin-sm col_last">
+                
+                <div class="heading-block topmargin-sm">
+                    <h3>Ballroom</h3>
+                    <span>Level 1- 2 </span>
+                </div>
+                
+                <p>Our Ballroom classes are structured in a way that dancers are allowed to explore a variety of rhythms with each of their own step-patterns and movements. Known for being highly energetic a dance discipline,  ballroom reflects the syncopated rhythm of the music being danced to.</p>
+                <p>ome of the rhythms our dancers learn are Swing, Rumba/Bolero, Cha Cha, Salsa/Mambo, Merengue, Disco/Hustle, Samba and Paso Doble.
+                </p>
+                
+                <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                
+            </div>
+            <div class="col_one_third bottommargin-lg center align-right">
+                <img data-animate="fadeInRight" src="/_assets/img/ballroom.jpg" alt="Ballroom Classes">
+            </div>
+            
+        </div>
+        
+        
+    </div>
+</section>
+<!-- #content end --> 
+            <!-- Footer
+============================================= -->
+<footer id="footers">
+    <div class="container">
+        <!-- Footer Widgets
+============================================= -->
+        <div class="footer-widgets-wrap clearfix">
+            <div class="col-md-4">
+                <div>
+                    <div class="widget clearfix">
+                        <img src="/_assets/img/IDS_logo85px.png" alt="Infinity Dance Studio" class="footer-logo" />
+                        <p> Copyrights &copy; 2016
+                            <br /> All Rights Reserved by Infinity Dance Studio, Inc</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div>
+                    <div class="widget clearfix">
+                        <div style="background: transparent url(images/world-map.png) no-repeat scroll center center / 100% auto;">
+                            <h4>Infinity Dance Studio</h4>
+                            <address>
+                                <h5>
+                                    8901 SW 157th AVE #5<br />
+                                    Miami, FL 33196</h5>
+                            </address>
+                            <h5>
+                                <a href="tel:786-752-6888">(786) 752-6888</a><br />
+                                <a href="mailto:dance@infinitydancemiami.com"> dance@infinitydancemiami.com </a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="widget subscribe-widget clearfix">
+                    <h5><strong>Subscribe</strong> to Our Newsletter to get News and Offers</h5>
+                    <script type="text/javascript" src="/CatalystScripts/ValidationFunctions.js?vs=b2050.r494698-phase1"></script>
+                    <form name="catwebformform55164" method="post" onsubmit="return checkWholeForm55164(this)" enctype="multipart/form-data" action="http://www.infinitydancemiami.com/FormProcessv2.aspx?WebFormID=749148&OID=19582409&OTYPE=1&EID=0&CID=0">
+                        <input type="text" name="EmailAddress" id="EmailAddress" class="form-control required email" maxlength="255" placeholder="Email" />
+                        <br>
+                        <input class="btn btn-success" type="submit" value="Submit" id="catwebformbutton" />
+                        
+                        <script type="text/javascript">
+                            //<![CDATA[
+                            var submitcount55164 = 0;
+                            
+                            function checkWholeForm55164(theForm) {
+                                var why = "";
+                                if (theForm.EmailAddress) why += checkEmail(theForm.EmailAddress.value);
+                                if (why != "") {
+                                    alert(why);
+                                    return false;
+                                }
+                                if (submitcount55164 == 0) {
+                                    submitcount55164++;
+                                    theForm.submit();
+                                    return false;
+                                } else {
+                                    alert("Form submission is in progress.");
+                                    return false;
+                                }
+                            }
+                            //]]>
+                        </script>
+                        
+                    </form>
+                    <div class="widget clearfix" style="margin-bottom: -20px;">
+                        <div class="row">
+                            <div class="col-md-3 clearfix bottommargin-sm">
+                                <a href="https://www.facebook.com/infinitydanceschool/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+                                    <em class="icon-facebook"></em>
+                                    
+                                </a>
+                            </div>
+                            <div class="col-md-3 clearfix bottommargin-sm">
+                                <a href="https://www.instagram.com/infinitydancestudio/" class="social-icon si-dark si-colored si-instagram nobottommargin" style="margin-right: 10px;">
+                                    <em class="icon-instagram"></em>
+                                    <em class="icon-instagram"></em>
+                                </a>
+                            </div>
+                            <div class="col-md-3 clearfix bottommargin-sm">
+                                <a href="https://www.youtube.com/user/infinitydancestudio1" class="social-icon si-dark si-colored si-youtube nobottommargin" style="margin-right: 10px;">
+                                    <em class="icon-youtube"></em>
+                                    <em class="icon-youtube"></em>
+                                </a>
+                            </div>
+                            <div class="col-md-3 clearfix bottommargin-sm">
+                                <a href="#" class="social-icon si-dark si-colored si-gplus nobottommargin" style="margin-right: 10px;">
+                                    <em class="icon-gplus"></em>
+                                    <em class="icon-gplus"></em>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <!-- .footer-widgets-wrap end -->
+        </div>
+    </footer>
+    <!-- #footer end -->
+    <!-- #wrapper end -->
+    <!-- Go To Top
+============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+    <script type="text/javascript" src="/_assets/js/functions.js"></script>
+        </div>
+    
+    
+</body>
+</html>
